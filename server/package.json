@@ -21,7 +21,7 @@
     "apollo-server-express": "^2.8.1",
     "express": "^4.17.1",
     "graphql": "^14.4.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "qs-middleware": "^1.0.3",
     "react-apollo": "^3.0.0"
   }
